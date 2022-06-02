@@ -6,13 +6,11 @@
 
 <h2>Ласкаво просимо!</h2>
 
-
 <br>
 <br>
 <br>
 
 <a href="askVisitDetails">Запис</a>
-
 
 </body>
 
